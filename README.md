@@ -1,2 +1,10 @@
 # Pacman-Solver
- Drive Pacman with tree search algorithms
+Drive Pacman by taking inputs from tree search algorithms
+
+Requires Python 2.7
+
+Running:
+1) Move pacmanAgents.py to Assignment folder
+2) Execute in terminal the following line while in assignment directory
+	python pacman.py -p AgentName
+where AgentName is the name of the class in pacmanAgents.py (e.g. BFSAgent, DFSAgent)
